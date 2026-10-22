@@ -2,7 +2,7 @@
 
 const bancoDeFilmes = [
     {
-        respostasValidas: ["homem aranha", "homem-aranha", "spiderman", "spider-man", "miranha"],
+        respostasValidas: ["homem aranha", "homem-aranha", "spiderman", "spider-man", "miranha", "o homem aranha"],
         pistas: [
             "O protagonista é um jovem que leva uma vida comum, mas acaba ganhando poderes especiais.",
             "O personagem consegue escalar paredes e se movimentar pelas cidades.",
@@ -22,7 +22,7 @@ const bancoDeFilmes = [
         ]
     },
     {
-        respostasValidas: ["o rei leao", "rei leao", "the lion king"],
+        respostasValidas: ["o rei leao", "rei leao", "the lion king", "o rei leão", "rei leão", "liao"],
         pistas: [
             "A história se passa nas savanas africanas.",
             "O protagonista passa por uma perda traumática na infância e decide fugir.",
@@ -55,7 +55,7 @@ const bancoDeFilmes = [
         
     },
     {
-        respostasValidas: ["como treinar seu dragão", "how to train your dragon", "como treinar o seu dragão", "treinar seu dragão"],
+        respostasValidas: ["como treinar seu dragão", "how to train your dragon", "como treinar o seu dragão", "treinar seu dragão", "como treinar seu dragao", "como treinar o seu dragao", "treinar seu dragao],
         pistas: [
             "Um jovem que não se encaixa nas tradições de seu povo acaba mudando a relação entre humanos e criaturas consideradas inimigas.",
             "O protagonista faz amizade com um dragão preto muito veloz, que não consegue voar direito sozinho depois de sofrer um ferimento.",
